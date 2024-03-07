@@ -1,7 +1,5 @@
 # OCOP Website
 
-![OCOP Logo](![Uploading trai-thom-4.jpg…]()
-)
 
 ## Giới thiệu
 
