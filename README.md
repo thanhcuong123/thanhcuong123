@@ -1,6 +1,7 @@
 # OCOP Website
 
-![OCOP Logo](ocop_logo.png)
+![OCOP Logo](![Uploading trai-thom-4.jpg…]()
+)
 
 ## Giới thiệu
 
@@ -16,10 +17,6 @@ Website OCOP (One Community One Product) là một dự án nhằm thúc đẩy 
 
 ## Yêu cầu
 
-- Node.js
-- MongoDB
-- AngularJS
-- Express.js
 
 ## Cài đặt và chạy
 
@@ -52,8 +49,7 @@ Chúng tôi rất hoan nghênh mọi sự đóng góp từ cộng đồng. Nếu
 
 ## Tác giả
 
-- John Doe
-- Jane Smith
+Danh Thanh Cường
 
 ## Giấy phép
 
